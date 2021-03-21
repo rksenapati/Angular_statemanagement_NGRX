@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+// import Bootstrap from 'bootstrap/dist/js/bootstrap';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
